@@ -1,0 +1,20 @@
+BIRTHDAY REMINDER PRO V7
+
+Features:
+- Background birthday notification at Windows login without opening the main GUI
+- Aesthetic birthday popup with photos
+- Multiple same-day birthdays
+- Sunday / 2nd Saturday / 4th Saturday advance reminder
+- Person photo profiles
+- Delete contact button
+- WhatsApp greeting styles with sender name
+
+BUILD:
+1. Run BUILD_EXE.bat on Windows.
+2. Run dist\Birthday Reminder Pro.exe once.
+3. Add birthdays/photos.
+4. Close the app and restart Windows.
+5. Background notification runs automatically when a birthday is due.
+
+DATA:
+User data is stored separately in %USERPROFILE%\BirthdayReminder and should not be committed to GitHub.
